@@ -26,5 +26,6 @@ Projeto simples em Python para cálculo do Índice de Massa Corporal
 ---
 
 Feito por: Lorenzo Lima Santos
+
 Projeto simples como parte de estudos
 
